@@ -1,2 +1,3 @@
 Membuat video Laravel
-Javascript
+React Native
+Front End & UI UX developement
