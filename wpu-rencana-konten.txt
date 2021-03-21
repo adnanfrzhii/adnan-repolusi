@@ -2,3 +2,5 @@ Membuat video Laravel
 React Native
 Front End & UI UX developement
 Adobe XD 
+Belajar Teknik pemilihan warna
+Belajar Teknik mendesain tampilan
